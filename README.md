@@ -1,6 +1,6 @@
 # mongoExpress
 
-Ejerccio de creación de una conexión con una base de datos Mongo, con express, y mongoose, con 5 endpoints:
+Ejercicio (serverInit.js) de creación de una conexión con una base de datos Mongo, con express, y mongoose, con 5 endpoints:
   1. Get all
   2. Get by Id
   3. Post
